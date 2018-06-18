@@ -37,11 +37,11 @@ public class PersonalizeRadioButton {
 
     private void setCircleColor(int unchecked, int checked){
         if(unchecked == -1){
-            unchecked = R.color.radioButtonUncheckedPV;
+            unchecked = R.color.radioButtonUncheckedPV_PersonalizeRB;
         }
 
         if(checked == -1){
-            checked =  R.color.radioButtonCheckedPV;
+            checked =  R.color.radioButtonCheckedPV_PersonalizeRB;
         }
 
         ColorStateList colorStateList = new ColorStateList(

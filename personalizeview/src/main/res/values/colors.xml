@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="radioButtonUncheckedPV">#90a4ae</color>
-    <color name="radioButtonCheckedPV">#263238</color>
+    <color name="radioButtonUncheckedPV_PersonalizeRB">#90a4ae</color>
+    <color name="radioButtonCheckedPV_PersonalizeRB">#263238</color>
+    <color name="colorTextButton__PersonalizeBTN">#212121</color>
 </resources>
